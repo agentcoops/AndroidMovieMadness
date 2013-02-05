@@ -1,0 +1,7 @@
+<resources>
+  <string name="prompt_label">Enter search query:</string>
+  <string name="field_label">Field to search:</string>
+  <string name="search_button_label">Search</string>
+  <string name="app_name">Movie Madness Search</string>
+  <string name="status_message">Loading credentials...</string>
+</resources>
